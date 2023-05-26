@@ -1,0 +1,42 @@
+[
+    {
+        "name": "A-1",
+        "marks": 60,
+        "total": 60
+    },
+    {
+        "name": "A-2",
+        "marks": 59,
+        "total": 60
+    },
+    {
+        "name": "A-3",
+        "marks": 59,
+        "total": 60
+    },
+    {
+        "name": "A-4",
+        "marks": 58,
+        "total": 60
+    },
+    {
+        "name": "A-5",
+        "marks": 59,
+        "total": 60
+    },
+    {
+        "name": "A-6",
+        "marks": 56,
+        "total": 60
+    },
+    {
+        "name": "A-7",
+        "marks": 60,
+        "total": 60
+    },
+    {
+        "name": "A-8",
+        "marks": 60,
+        "total": 60
+    }
+]
